@@ -12,7 +12,7 @@
     <file path="/index.html" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377065566580" ignored="false" />
     <file path="/track.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377069342035" ignored="false" />
     <file path="/fragment.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377067538732" ignored="false" />
-    <file path="/Gemfile" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377070193765" ignored="false" />
+    <file path="/Gemfile" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377070614263" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="3" selection-start="183" selection-end="183" vertical-scroll-proportion="0.31325302">
+            <state line="43" column="8" selection-start="856" selection-end="856" vertical-scroll-proportion="0.8192771">
               <folding />
             </state>
           </provider>
@@ -62,7 +62,7 @@
       <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="20" selection-start="475" selection-end="475" vertical-scroll-proportion="-5.322581">
+            <state line="3" column="19" selection-start="145" selection-end="152" vertical-scroll-proportion="-1.451613">
               <folding />
             </state>
           </provider>
@@ -389,6 +389,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -749,13 +750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="20" selection-start="475" selection-end="475" vertical-scroll-proportion="-5.322581">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="22" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0">
@@ -794,9 +788,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="19" selection-start="145" selection-end="152" vertical-scroll-proportion="-1.451613">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="3" selection-start="183" selection-end="183" vertical-scroll-proportion="0.31325302">
+        <state line="43" column="8" selection-start="856" selection-end="856" vertical-scroll-proportion="0.8192771">
           <folding />
         </state>
       </provider>
