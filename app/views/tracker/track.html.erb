@@ -1,0 +1,16 @@
+<div style="padding-left:20px;">
+<table class="table table-hover" style="width:300px;">
+  <thead>
+  <th>Tracking #</th>
+  <th>In Israel</th>
+  </thead>
+  <tbody>
+    <% @result.each do |id, result| %>
+    <tr onclick="window.open('http://www.israelpost.co.il/itemtrace.nsf/mainsearch?OpenForm&Seq=1&L=EN&itemcode=<%= id %>')" class="<%= result ? 'success' : 'error' %>">
+      <td><%= id %></td>
+      <td><%= result %></td>
+    </tr>
+    <% end %>
+  </tbody>
+</table>
+</div>
