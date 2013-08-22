@@ -5,30 +5,38 @@
     <ignored path="ShoppingTracker.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377069643331" ignored="false" />
-    <file path="/a.dummy" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377066087736" ignored="false" />
+    <file path="/a.dummy" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377160661821" ignored="false" />
     <file path="$PROJECT_DIR$/log/development.log" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377064714518" ignored="false" />
     <file path="/routes.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377066257249" ignored="false" />
     <file path="/tracker_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377067468148" ignored="false" />
     <file path="/index.html" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377065566580" ignored="false" />
     <file path="/track.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377069342035" ignored="false" />
-    <file path="/fragment.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377080764567" ignored="false" />
-    <file path="/Gemfile" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377070614263" ignored="false" />
-    <file path="$USER_HOME$/truffles/lib/config/toolbar_experiment.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081208216" ignored="false" />
+    <file path="/fragment.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172195980" ignored="false" />
+    <file path="/Gemfile" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377171342234" ignored="false" />
+    <file path="$USER_HOME$/truffles/lib/config/toolbar_experiment.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
     <file path="/toolbar_experiment.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081208216" ignored="false" />
-    <file path="$USER_HOME$/truffles/truffles.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081176332" ignored="false" />
+    <file path="$USER_HOME$/truffles/truffles.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
     <file path="/truffles.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081174831" ignored="false" />
-    <file path="$USER_HOME$/truffles/lib/request_context/request_context_factory.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081146770" ignored="false" />
+    <file path="$USER_HOME$/truffles/lib/request_context/request_context_factory.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
     <file path="/request_context_factory.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081134728" ignored="false" />
-    <file path="$USER_HOME$/truffles/lib/bll/toolbar_experiment_generator.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081113550" ignored="false" />
-    <file path="$USER_HOME$/truffles/lib/bll/experiment_generator.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081113550" ignored="false" />
-    <file path="$USER_HOME$/truffles/lib/provider_plugin/provider_runner.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081113550" ignored="false" />
+    <file path="$USER_HOME$/truffles/lib/bll/toolbar_experiment_generator.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
+    <file path="$USER_HOME$/truffles/lib/bll/experiment_generator.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
+    <file path="$USER_HOME$/truffles/lib/provider_plugin/provider_runner.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
     <file path="$USER_HOME$/truffles/spec/toolbar_experiment_generator_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081113550" ignored="false" />
-    <file path="$USER_HOME$/truffles/lib/config/providers.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081113550" ignored="false" />
-    <file path="$USER_HOME$/truffles/lib/provider_plugin/p13n_provider_runner.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081113550" ignored="false" />
-    <file path="$USER_HOME$/truffles/lib/flow/services/tb_render.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081113550" ignored="false" />
+    <file path="$USER_HOME$/truffles/lib/config/providers.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
+    <file path="$USER_HOME$/truffles/lib/provider_plugin/p13n_provider_runner.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
+    <file path="$USER_HOME$/truffles/lib/flow/services/tb_render.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
     <file path="$USER_HOME$/truffle_hog/app/views/scenarios/_new_scenario.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377090360901" ignored="false" />
     <file path="/_new_scenario.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377090345399" ignored="false" />
-    <file path="$USER_HOME$/truffle_hog/log/development.log" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377090650178" ignored="false" />
+    <file path="$USER_HOME$/truffle_hog/log/development.log" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377171515516" ignored="false" />
+    <file path="$USER_HOME$/truffles/lib/flow/services/scatter.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
+    <file path="/scatter.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377161002441" ignored="false" />
+    <file path="$USER_HOME$/truffles/lib/util/new_relic_handler.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
+    <file path="/new_relic_handler.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377161101067" ignored="false" />
+    <file path="$USER_HOME$/truffle_hog/app/views/toolbar_experiments/_new_toolbar_experiment.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377171219774" ignored="false" />
+    <file path="/_new_toolbar_experiment.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377171095350" ignored="false" />
+    <file path="$USER_HOME$/truffle_hog/Gemfile" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377171342824" ignored="false" />
+    <file path="/toolbar_experiment_generator.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172025032" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +106,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="308" selection-start="408" selection-end="421" vertical-scroll-proportion="0.036101084">
+            <state line="2" column="364" selection-start="477" selection-end="477" vertical-scroll-proportion="0.036101084">
               <folding />
             </state>
           </provider>
@@ -862,7 +870,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="308" selection-start="408" selection-end="421" vertical-scroll-proportion="0.036101084">
+        <state line="2" column="364" selection-start="477" selection-end="477" vertical-scroll-proportion="0.036101084">
           <folding />
         </state>
       </provider>
