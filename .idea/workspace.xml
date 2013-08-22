@@ -5,7 +5,7 @@
     <ignored path="ShoppingTracker.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377069643331" ignored="false" />
-    <file path="/a.dummy" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377160661821" ignored="false" />
+    <file path="/a.dummy" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377175762049" ignored="false" />
     <file path="$PROJECT_DIR$/log/development.log" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377064714518" ignored="false" />
     <file path="/routes.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377066257249" ignored="false" />
     <file path="/tracker_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377067468148" ignored="false" />
@@ -28,7 +28,7 @@
     <file path="$USER_HOME$/truffles/lib/flow/services/tb_render.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
     <file path="$USER_HOME$/truffle_hog/app/views/scenarios/_new_scenario.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377090360901" ignored="false" />
     <file path="/_new_scenario.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377090345399" ignored="false" />
-    <file path="$USER_HOME$/truffle_hog/log/development.log" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377171515516" ignored="false" />
+    <file path="$USER_HOME$/truffle_hog/log/development.log" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377176222219" ignored="false" />
     <file path="$USER_HOME$/truffles/lib/flow/services/scatter.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
     <file path="/scatter.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377161002441" ignored="false" />
     <file path="$USER_HOME$/truffles/lib/util/new_relic_handler.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
@@ -37,6 +37,13 @@
     <file path="/_new_toolbar_experiment.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377171095350" ignored="false" />
     <file path="$USER_HOME$/truffle_hog/Gemfile" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377171342824" ignored="false" />
     <file path="/toolbar_experiment_generator.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172025032" ignored="false" />
+    <file path="$USER_HOME$/truffle_hog/spec/controllers/experiments_controller_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377175799110" ignored="false" />
+    <file path="/experiments_controller_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377175793220" ignored="false" />
+    <file path="$USER_HOME$/truffle_hog/spec/models/experiments/scenario_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377175870242" ignored="false" />
+    <file path="$USER_HOME$/truffle_hog/spec/controllers/scenarios_controller_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377176262248" ignored="false" />
+    <file path="/scenarios_controller_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377175957396" ignored="false" />
+    <file path="$USER_HOME$/truffle_hog/app/controllers/scenarios_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377176151538" ignored="false" />
+    <file path="/scenarios_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377176151538" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,10 +102,8 @@
       <file leaf-file-name="tracker_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/tracker_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1377069317015" expanded="true" signature="656:806" placeholder=" ... end" />
-              </folding>
+            <state line="8" column="124" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -106,7 +111,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="364" selection-start="477" selection-end="477" vertical-scroll-proportion="0.036101084">
+            <state line="2" column="29" selection-start="142" selection-end="142" vertical-scroll-proportion="0.036101084">
               <folding />
             </state>
           </provider>
@@ -769,9 +774,7 @@
     <entry file="file://$PROJECT_DIR$/app/controllers/tracker_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1377069317015" expanded="true" signature="656:806" placeholder=" ... end" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -838,15 +841,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/tracker_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1377069317015" expanded="true" signature="656:806" placeholder=" ... end" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/tracker/track.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="30" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0">
@@ -868,9 +862,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/tracker_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="124" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="364" selection-start="477" selection-end="477" vertical-scroll-proportion="0.036101084">
+        <state line="2" column="29" selection-start="142" selection-end="142" vertical-scroll-proportion="0.036101084">
           <folding />
         </state>
       </provider>
