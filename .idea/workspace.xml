@@ -5,7 +5,7 @@
     <ignored path="ShoppingTracker.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377069643331" ignored="false" />
-    <file path="/a.dummy" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377175762049" ignored="false" />
+    <file path="/a.dummy" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377440131760" ignored="false" />
     <file path="$PROJECT_DIR$/log/development.log" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377064714518" ignored="false" />
     <file path="/routes.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377066257249" ignored="false" />
     <file path="/tracker_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377067468148" ignored="false" />
@@ -44,6 +44,18 @@
     <file path="/scenarios_controller_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377175957396" ignored="false" />
     <file path="$USER_HOME$/truffle_hog/app/controllers/scenarios_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377176151538" ignored="false" />
     <file path="/scenarios_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377176151538" ignored="false" />
+    <file path="$USER_HOME$/shitake/src/feed.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377429272976" ignored="false" />
+    <file path="$USER_HOME$/shitake/dev/app-downstairs._coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377430019730" ignored="false" />
+    <file path="$USER_HOME$/shitake/src/context.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377438056663" ignored="false" />
+    <file path="$USER_HOME$/shitake/ground/session.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377429950353" ignored="false" />
+    <file path="/session.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377427350871" ignored="false" />
+    <file path="$USER_HOME$/shitake/dev/app-upstairs.js" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377430019730" ignored="false" />
+    <file path="$USER_HOME$/shitake/dev/app-upstairs._coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377430019730" ignored="false" />
+    <file path="$USER_HOME$/shitake/dev/app-downstairs.js" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377430019730" ignored="false" />
+    <file path="$USER_HOME$/shitake/src/Gruntfile.js" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377427053653" ignored="false" />
+    <file path="$USER_HOME$/shitake/ground/toolbar_start.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377430025333" ignored="false" />
+    <file path="/toolbar_start.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377429305127" ignored="false" />
+    <file path="$USER_HOME$/shitake/src/context_config.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377438056663" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +123,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="29" selection-start="142" selection-end="142" vertical-scroll-proportion="0.036101084">
+            <state line="4" column="43" selection-start="507" selection-end="507" vertical-scroll-proportion="0.07220217">
               <folding />
             </state>
           </provider>
@@ -680,7 +692,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-4" width="1922" height="1085" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -855,13 +867,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="33" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/tracker_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="124" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
@@ -869,9 +874,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="33" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="142" selection-end="142" vertical-scroll-proportion="0.036101084">
+        <state line="4" column="43" selection-start="507" selection-end="507" vertical-scroll-proportion="0.07220217">
           <folding />
         </state>
       </provider>
