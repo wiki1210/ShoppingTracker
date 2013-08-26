@@ -4,7 +4,7 @@
     <list default="true" id="523eab0b-1554-4f49-9319-89b7c83602a2" name="Default" comment="" />
     <ignored path="ShoppingTracker.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377069643331" ignored="false" />
+    <file path="/index.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377499203847" ignored="false" />
     <file path="/a.dummy" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377440131760" ignored="false" />
     <file path="$PROJECT_DIR$/log/development.log" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377064714518" ignored="false" />
     <file path="/routes.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377066257249" ignored="false" />
@@ -28,7 +28,7 @@
     <file path="$USER_HOME$/truffles/lib/flow/services/tb_render.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
     <file path="$USER_HOME$/truffle_hog/app/views/scenarios/_new_scenario.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377090360901" ignored="false" />
     <file path="/_new_scenario.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377090345399" ignored="false" />
-    <file path="$USER_HOME$/truffle_hog/log/development.log" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377176222219" ignored="false" />
+    <file path="$USER_HOME$/truffle_hog/log/development.log" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377503080373" ignored="false" />
     <file path="$USER_HOME$/truffles/lib/flow/services/scatter.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
     <file path="/scatter.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377161002441" ignored="false" />
     <file path="$USER_HOME$/truffles/lib/util/new_relic_handler.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172096137" ignored="false" />
@@ -39,11 +39,11 @@
     <file path="/toolbar_experiment_generator.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377172025032" ignored="false" />
     <file path="$USER_HOME$/truffle_hog/spec/controllers/experiments_controller_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377175799110" ignored="false" />
     <file path="/experiments_controller_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377175793220" ignored="false" />
-    <file path="$USER_HOME$/truffle_hog/spec/models/experiments/scenario_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377175870242" ignored="false" />
-    <file path="$USER_HOME$/truffle_hog/spec/controllers/scenarios_controller_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377176262248" ignored="false" />
-    <file path="/scenarios_controller_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377175957396" ignored="false" />
-    <file path="$USER_HOME$/truffle_hog/app/controllers/scenarios_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377176151538" ignored="false" />
-    <file path="/scenarios_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377176151538" ignored="false" />
+    <file path="$USER_HOME$/truffle_hog/spec/models/experiments/scenario_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377502124927" ignored="false" />
+    <file path="$USER_HOME$/truffle_hog/spec/controllers/scenarios_controller_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377504497331" ignored="false" />
+    <file path="/scenarios_controller_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377504429577" ignored="false" />
+    <file path="$USER_HOME$/truffle_hog/app/controllers/scenarios_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377504438580" ignored="false" />
+    <file path="/scenarios_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377504125041" ignored="false" />
     <file path="$USER_HOME$/shitake/src/feed.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377429272976" ignored="false" />
     <file path="$USER_HOME$/shitake/dev/app-downstairs._coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377430019730" ignored="false" />
     <file path="$USER_HOME$/shitake/src/context.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377438056663" ignored="false" />
@@ -56,6 +56,9 @@
     <file path="$USER_HOME$/shitake/ground/toolbar_start.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377430025333" ignored="false" />
     <file path="/toolbar_start.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377429305127" ignored="false" />
     <file path="$USER_HOME$/shitake/src/context_config.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377438056663" ignored="false" />
+    <file path="$USER_HOME$/truffle_hog/app/views/toolbar_experiments/index.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377499047940" ignored="false" />
+    <file path="$USER_HOME$/truffle_hog/app/views/scenarios/index.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377502781107" ignored="false" />
+    <file path="/scenario_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377502055877" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +126,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="43" selection-start="507" selection-end="507" vertical-scroll-proportion="0.07220217">
+            <state line="3" column="126" selection-start="402" selection-end="402" vertical-scroll-proportion="0.054151624">
               <folding />
             </state>
           </provider>
@@ -692,7 +695,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-4" width="1922" height="1085" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -883,7 +886,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="43" selection-start="507" selection-end="507" vertical-scroll-proportion="0.07220217">
+        <state line="3" column="126" selection-start="402" selection-end="402" vertical-scroll-proportion="0.054151624">
           <folding />
         </state>
       </provider>
