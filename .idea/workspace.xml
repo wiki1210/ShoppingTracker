@@ -10,7 +10,7 @@
     <file path="/routes.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377066257249" ignored="false" />
     <file path="/tracker_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377067468148" ignored="false" />
     <file path="/index.html" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377065566580" ignored="false" />
-    <file path="/track.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377774479940" ignored="false" />
+    <file path="/track.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377774706617" ignored="false" />
     <file path="/fragment.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377516840098" ignored="false" />
     <file path="/Gemfile" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377171342234" ignored="false" />
     <file path="$USER_HOME$/truffles/lib/config/toolbar_experiment.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377518796022" ignored="false" />
@@ -19,11 +19,11 @@
     <file path="/truffles.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081174831" ignored="false" />
     <file path="$USER_HOME$/truffles/lib/request_context/request_context_factory.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377518810133" ignored="false" />
     <file path="/request_context_factory.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081134728" ignored="false" />
-    <file path="$USER_HOME$/truffles/lib/bll/toolbar_experiment_generator.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377518796022" ignored="false" />
-    <file path="$USER_HOME$/truffles/lib/bll/experiment_generator.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377518796022" ignored="false" />
+    <file path="$USER_HOME$/truffles/lib/bll/toolbar_experiment_generator.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377774635377" ignored="false" />
+    <file path="$USER_HOME$/truffles/lib/bll/experiment_generator.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377774635377" ignored="false" />
     <file path="$USER_HOME$/truffles/lib/provider_plugin/provider_runner.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377518796022" ignored="false" />
-    <file path="$USER_HOME$/truffles/spec/toolbar_experiment_generator_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377758759261" ignored="false" />
-    <file path="$USER_HOME$/truffles/lib/config/providers.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377518796022" ignored="false" />
+    <file path="$USER_HOME$/truffles/spec/toolbar_experiment_generator_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377774635377" ignored="false" />
+    <file path="$USER_HOME$/truffles/lib/config/providers.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377774635377" ignored="false" />
     <file path="$USER_HOME$/truffles/lib/provider_plugin/p13n_provider_runner.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377518796022" ignored="false" />
     <file path="$USER_HOME$/truffles/lib/flow/services/tb_render.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377519882220" ignored="false" />
     <file path="$USER_HOME$/truffle_hog/app/views/scenarios/_new_scenario.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377090360901" ignored="false" />
@@ -62,12 +62,12 @@
     <file path="$USER_HOME$/truffles/spec/lib/flow/services/tb_render_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377520469760" ignored="false" />
     <file path="/tb_render_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377520454508" ignored="false" />
     <file path="/tb_render.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377519882220" ignored="false" />
-    <file path="$USER_HOME$/truffles/spec/lib/config/providers_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377521634719" ignored="false" />
+    <file path="$USER_HOME$/truffles/spec/lib/config/providers_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377774635377" ignored="false" />
     <file path="/providers_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377521625763" ignored="false" />
     <file path="/toolbar_experiment_generator_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377758399229" ignored="false" />
-    <file path="$USER_HOME$/truffles/spec/experiment_generator_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377759029994" ignored="false" />
+    <file path="$USER_HOME$/truffles/spec/experiment_generator_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377774635377" ignored="false" />
     <file path="/experiment_generator_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377759004201" ignored="false" />
-    <file path="$USER_HOME$/truffles/spec/lib/util/async_loop_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377759148315" ignored="false" />
+    <file path="$USER_HOME$/truffles/spec/lib/util/async_loop_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377774635377" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +144,7 @@
       <file leaf-file-name="track.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/tracker/track.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="170" selection-start="405" selection-end="405" vertical-scroll-proportion="0.17401393">
+            <state line="8" column="51" selection-start="252" selection-end="252" vertical-scroll-proportion="0.13714285">
               <folding />
             </state>
           </provider>
@@ -880,7 +880,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/tracker/track.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="170" selection-start="405" selection-end="405" vertical-scroll-proportion="0.17401393">
+        <state line="8" column="51" selection-start="252" selection-end="252" vertical-scroll-proportion="0.13714285">
           <folding />
         </state>
       </provider>

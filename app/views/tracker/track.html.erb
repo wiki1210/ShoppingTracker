@@ -6,9 +6,9 @@
   </thead>
   <tbody>
     <% @result.each do |id, result| %>
-    <tr>
+    <tr class="<%= result ? 'success' : 'error' %>">
       <td><%= id %></td>
-      <td onclick="window.open('http://www.israelpost.co.il/itemtrace.nsf/mainsearch?OpenForm&Seq=1&L=EN&itemcode=<%= id %>')" class="<%= result ? 'success' : 'error' %>"><%= result %></td>
+      <td onclick="window.open('http://www.israelpost.co.il/itemtrace.nsf/mainsearch?OpenForm&Seq=1&L=EN&itemcode=<%= id %>')"><%= result %></td>
     </tr>
     <% end %>
   </tbody>
