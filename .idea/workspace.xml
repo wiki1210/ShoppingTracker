@@ -132,19 +132,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="113" selection-end="113" vertical-scroll-proportion="-0.54545456">
+            <state line="2" column="29" selection-start="142" selection-end="142" vertical-scroll-proportion="0.036101084">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="track.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="track.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/tracker/track.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="51" selection-start="252" selection-end="252" vertical-scroll-proportion="0.13714285">
+            <state line="12" column="101" selection-start="448" selection-end="448" vertical-scroll-proportion="-7.5">
               <folding />
             </state>
           </provider>
@@ -177,8 +177,8 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css.scss" />
         <option value="$PROJECT_DIR$/app/controllers/tracker_controller.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/app/views/tracker/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/tracker/track.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/tracker/index.html.erb" />
       </list>
     </option>
   </component>
@@ -871,16 +871,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/tracker/track.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="113" selection-end="113" vertical-scroll-proportion="-0.54545456">
+        <state line="12" column="101" selection-start="448" selection-end="448" vertical-scroll-proportion="-7.5">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/tracker/track.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="51" selection-start="252" selection-end="252" vertical-scroll-proportion="0.13714285">
+        <state line="2" column="29" selection-start="142" selection-end="142" vertical-scroll-proportion="0.036101084">
           <folding />
         </state>
       </provider>
