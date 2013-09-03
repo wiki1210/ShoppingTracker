@@ -42,3 +42,5 @@ gem 'nokogiri'
 gem 'simple_form'
 gem 'bootstrap-sass'
 gem 'pg'
+
+gem 'gmail'

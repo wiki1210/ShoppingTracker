@@ -1,5 +1,6 @@
 require 'open-uri'
 require 'nokogiri'
+require './lib/mail_snapper'
 
 class TrackerController < ApplicationController
   def index
@@ -7,6 +8,7 @@ class TrackerController < ApplicationController
   end
 
   def track
+    #MailSnapper.new.get_tracking_info
     ids = params['ids'].split(',').map(&:strip)
     @result = ids.each_with_object({}){|id,h| h[id] = check_status(id)}
   end
