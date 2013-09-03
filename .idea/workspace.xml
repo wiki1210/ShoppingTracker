@@ -5,7 +5,7 @@
     <ignored path="ShoppingTracker.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377499203847" ignored="false" />
-    <file path="/a.dummy" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377758284479" ignored="false" />
+    <file path="/a.dummy" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378198697679" ignored="false" />
     <file path="$PROJECT_DIR$/log/development.log" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377064714518" ignored="false" />
     <file path="/routes.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377066257249" ignored="false" />
     <file path="/tracker_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377067468148" ignored="false" />
@@ -15,7 +15,7 @@
     <file path="/Gemfile" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377171342234" ignored="false" />
     <file path="$USER_HOME$/truffles/lib/config/toolbar_experiment.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377518796022" ignored="false" />
     <file path="/toolbar_experiment.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081208216" ignored="false" />
-    <file path="$USER_HOME$/truffles/truffles.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377518796022" ignored="false" />
+    <file path="$USER_HOME$/truffles/truffles.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378198461033" ignored="false" />
     <file path="/truffles.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081174831" ignored="false" />
     <file path="$USER_HOME$/truffles/lib/request_context/request_context_factory.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377518810133" ignored="false" />
     <file path="/request_context_factory.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081134728" ignored="false" />
@@ -44,14 +44,14 @@
     <file path="/scenarios_controller_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377504429577" ignored="false" />
     <file path="$USER_HOME$/truffle_hog/app/controllers/scenarios_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377504438580" ignored="false" />
     <file path="/scenarios_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377504125041" ignored="false" />
-    <file path="$USER_HOME$/shitake/src/feed.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377429272976" ignored="false" />
-    <file path="$USER_HOME$/shitake/dev/app-downstairs._coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377430019730" ignored="false" />
+    <file path="$USER_HOME$/shitake/src/feed.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378198647905" ignored="false" />
+    <file path="$USER_HOME$/shitake/dev/app-downstairs._coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378198694094" ignored="false" />
     <file path="$USER_HOME$/shitake/src/context.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377438056663" ignored="false" />
     <file path="$USER_HOME$/shitake/ground/session.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377429950353" ignored="false" />
     <file path="/session.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377427350871" ignored="false" />
     <file path="$USER_HOME$/shitake/dev/app-upstairs.js" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377430019730" ignored="false" />
     <file path="$USER_HOME$/shitake/dev/app-upstairs._coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377430019730" ignored="false" />
-    <file path="$USER_HOME$/shitake/dev/app-downstairs.js" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377430019730" ignored="false" />
+    <file path="$USER_HOME$/shitake/dev/app-downstairs.js" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378198694094" ignored="false" />
     <file path="$USER_HOME$/shitake/src/Gruntfile.js" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377427053653" ignored="false" />
     <file path="$USER_HOME$/shitake/ground/toolbar_start.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377430025333" ignored="false" />
     <file path="/toolbar_start.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377429305127" ignored="false" />
@@ -68,6 +68,7 @@
     <file path="$USER_HOME$/truffles/spec/experiment_generator_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377774635377" ignored="false" />
     <file path="/experiment_generator_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377759004201" ignored="false" />
     <file path="$USER_HOME$/truffles/spec/lib/util/async_loop_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377774635377" ignored="false" />
+    <file path="/feed.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378198629760" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +136,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="210" selection-start="323" selection-end="323" vertical-scroll-proportion="0.034802783">
+            <state line="2" column="224" selection-start="337" selection-end="337" vertical-scroll-proportion="0.034802783">
               <folding />
             </state>
           </provider>
@@ -880,7 +881,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="210" selection-start="323" selection-end="323" vertical-scroll-proportion="0.034802783">
+        <state line="2" column="224" selection-start="337" selection-end="337" vertical-scroll-proportion="0.034802783">
           <folding />
         </state>
       </provider>
