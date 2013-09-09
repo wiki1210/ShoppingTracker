@@ -12,7 +12,7 @@
     <file path="/index.html" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377065566580" ignored="false" />
     <file path="/track.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377774706617" ignored="false" />
     <file path="/fragment.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378221986847" ignored="false" />
-    <file path="/Gemfile" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378653623060" ignored="false" />
+    <file path="/Gemfile" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378721215117" ignored="false" />
     <file path="$USER_HOME$/truffles/lib/config/toolbar_experiment.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377518796022" ignored="false" />
     <file path="/toolbar_experiment.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081208216" ignored="false" />
     <file path="$USER_HOME$/truffles/truffles.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378198461033" ignored="false" />
@@ -100,7 +100,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="47" selection-start="738" selection-end="738" vertical-scroll-proportion="0.42168674">
+            <state line="36" column="28" selection-start="757" selection-end="757" vertical-scroll-proportion="0.45783132">
               <folding />
             </state>
           </provider>
@@ -891,7 +891,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="47" selection-start="738" selection-end="738" vertical-scroll-proportion="0.42168674">
+        <state line="36" column="28" selection-start="757" selection-end="757" vertical-scroll-proportion="0.45783132">
           <folding />
         </state>
       </provider>
