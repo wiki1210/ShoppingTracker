@@ -4,15 +4,15 @@
     <list default="true" id="523eab0b-1554-4f49-9319-89b7c83602a2" name="Default" comment="" />
     <ignored path="ShoppingTracker.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377499203847" ignored="false" />
-    <file path="/a.dummy" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378198697679" ignored="false" />
+    <file path="/index.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378720608051" ignored="false" />
+    <file path="/a.dummy" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378650453292" ignored="false" />
     <file path="$PROJECT_DIR$/log/development.log" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377064714518" ignored="false" />
     <file path="/routes.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377066257249" ignored="false" />
     <file path="/tracker_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378222096678" ignored="false" />
     <file path="/index.html" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377065566580" ignored="false" />
     <file path="/track.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377774706617" ignored="false" />
     <file path="/fragment.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378221986847" ignored="false" />
-    <file path="/Gemfile" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378219944952" ignored="false" />
+    <file path="/Gemfile" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378653623060" ignored="false" />
     <file path="$USER_HOME$/truffles/lib/config/toolbar_experiment.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377518796022" ignored="false" />
     <file path="/toolbar_experiment.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377081208216" ignored="false" />
     <file path="$USER_HOME$/truffles/truffles.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378198461033" ignored="false" />
@@ -71,6 +71,13 @@
     <file path="/feed.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378198629760" ignored="false" />
     <file path="/mail.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378221063668" ignored="false" />
     <file path="/mail_snapper.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378220890098" ignored="false" />
+    <file path="$USER_HOME$/shitake/src/Gemfile" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378654214512" ignored="false" />
+    <file path="$USER_HOME$/shitake/src/config/deploy.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378715213358" ignored="false" />
+    <file path="/deploy.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378715213358" ignored="false" />
+    <file path="$USER_HOME$/shitake/src/config/deploy/production.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378647955961" ignored="false" />
+    <file path="$USER_HOME$/shitake/src/config/deploy/staging.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378647938603" ignored="false" />
+    <file path="/production.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378647955961" ignored="false" />
+    <file path="$USER_HOME$/shitake/src/package.json" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378714895525" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +101,11 @@
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state line="26" column="25" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1378219946176" expanded="true" signature="54:140" placeholder="#..." />
+                <marker date="1378219946176" expanded="true" signature="186:271" placeholder="#..." />
+                <marker date="1378219946176" expanded="true" signature="536:793" placeholder="#..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,10 +146,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tracker_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="97" selection-start="423" selection-end="423" vertical-scroll-proportion="0.15873016">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tracker_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/tracker_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="5" selection-start="153" selection-end="153" vertical-scroll-proportion="0.36144578">
+            <state line="10" column="5" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -188,11 +208,11 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css.scss" />
         <option value="$PROJECT_DIR$/app/views/tracker/track.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/tracker/index.html.erb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/lib/mail.rb" />
         <option value="$PROJECT_DIR$/lib/mail_snapper.rb" />
         <option value="$PROJECT_DIR$/app/controllers/tracker_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/tracker/index.html.erb" />
       </list>
     </option>
   </component>
@@ -204,7 +224,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
+    <option name="x" value="1919" />
     <option name="y" value="-4" />
     <option name="width" value="1922" />
     <option name="height" value="1085" />
@@ -278,6 +298,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShoppingTracker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShoppingTracker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="erb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scaffold" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -760,7 +806,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-4" width="1922" height="1085" extended-state="6" />
+    <frame x="1919" y="-4" width="1922" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -902,24 +948,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="66" selection-start="423" selection-end="423" vertical-scroll-proportion="-2.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="25" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/tracker/track.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="448" selection-end="448" vertical-scroll-proportion="-7.5">
-          <folding />
+          <folding>
+            <marker date="1378219946176" expanded="true" signature="54:140" placeholder="#..." />
+            <marker date="1378219946176" expanded="true" signature="186:271" placeholder="#..." />
+            <marker date="1378219946176" expanded="true" signature="536:793" placeholder="#..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -946,7 +982,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/tracker_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="5" selection-start="153" selection-end="153" vertical-scroll-proportion="0.36144578">
+        <state line="10" column="5" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/tracker/track.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="448" selection-end="448" vertical-scroll-proportion="-7.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="97" selection-start="423" selection-end="423" vertical-scroll-proportion="0.15873016">
           <folding />
         </state>
       </provider>
