@@ -44,3 +44,4 @@ gem 'bootstrap-sass'
 gem 'pg'
 
 gem 'gmail'
+require 'newrelic_rpm'
