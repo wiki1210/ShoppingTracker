@@ -5,7 +5,7 @@
     <ignored path="ShoppingTracker.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html.erb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378720608051" ignored="false" />
-    <file path="/a.dummy" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378795627194" ignored="false" />
+    <file path="/a.dummy" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378650453292" ignored="false" />
     <file path="$PROJECT_DIR$/log/development.log" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377064714518" ignored="false" />
     <file path="/routes.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377066257249" ignored="false" />
     <file path="/tracker_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378222096678" ignored="false" />
@@ -44,14 +44,14 @@
     <file path="/scenarios_controller_spec.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377504429577" ignored="false" />
     <file path="$USER_HOME$/truffle_hog/app/controllers/scenarios_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377504438580" ignored="false" />
     <file path="/scenarios_controller.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377504125041" ignored="false" />
-    <file path="$USER_HOME$/shitake/src/feed.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378729386328" ignored="false" />
-    <file path="$USER_HOME$/shitake/dev/app-downstairs._coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378729386328" ignored="false" />
+    <file path="$USER_HOME$/shitake/src/feed.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378198647905" ignored="false" />
+    <file path="$USER_HOME$/shitake/dev/app-downstairs._coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378198694094" ignored="false" />
     <file path="$USER_HOME$/shitake/src/context.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377438056663" ignored="false" />
-    <file path="$USER_HOME$/shitake/ground/session.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378730766356" ignored="false" />
+    <file path="$USER_HOME$/shitake/ground/session.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377429950353" ignored="false" />
     <file path="/session.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377427350871" ignored="false" />
-    <file path="$USER_HOME$/shitake/dev/app-upstairs.js" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378729386328" ignored="false" />
-    <file path="$USER_HOME$/shitake/dev/app-upstairs._coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378729386328" ignored="false" />
-    <file path="$USER_HOME$/shitake/dev/app-downstairs.js" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378729386328" ignored="false" />
+    <file path="$USER_HOME$/shitake/dev/app-upstairs.js" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377430019730" ignored="false" />
+    <file path="$USER_HOME$/shitake/dev/app-upstairs._coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377430019730" ignored="false" />
+    <file path="$USER_HOME$/shitake/dev/app-downstairs.js" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378198694094" ignored="false" />
     <file path="$USER_HOME$/shitake/src/Gruntfile.js" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377427053653" ignored="false" />
     <file path="$USER_HOME$/shitake/ground/toolbar_start.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377430025333" ignored="false" />
     <file path="/toolbar_start.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1377429305127" ignored="false" />
@@ -71,18 +71,13 @@
     <file path="/feed.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378198629760" ignored="false" />
     <file path="/mail.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378221063668" ignored="false" />
     <file path="/mail_snapper.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378220890098" ignored="false" />
-    <file path="$USER_HOME$/shitake/src/Gemfile" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378727255212" ignored="false" />
-    <file path="$USER_HOME$/shitake/src/config/deploy.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378814280042" ignored="false" />
-    <file path="/deploy.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378813344134" ignored="false" />
-    <file path="$USER_HOME$/shitake/src/config/deploy/production.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378812839952" ignored="false" />
-    <file path="$USER_HOME$/shitake/src/config/deploy/staging.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378727255212" ignored="false" />
+    <file path="$USER_HOME$/shitake/src/Gemfile" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378654214512" ignored="false" />
+    <file path="$USER_HOME$/shitake/src/config/deploy.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378715213358" ignored="false" />
+    <file path="/deploy.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378715213358" ignored="false" />
+    <file path="$USER_HOME$/shitake/src/config/deploy/production.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378647955961" ignored="false" />
+    <file path="$USER_HOME$/shitake/src/config/deploy/staging.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378647938603" ignored="false" />
     <file path="/production.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378647955961" ignored="false" />
-    <file path="$USER_HOME$/shitake/src/package.json" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378727255212" ignored="false" />
-    <file path="/newrelic.yml" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378721317028" ignored="false" />
-    <file path="$USER_HOME$/shitake/src/config/recipes/mailer.rb" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378727255212" ignored="false" />
-    <file path="$USER_HOME$/shitake/src/Capfile" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378727255212" ignored="false" />
-    <file path="$USER_HOME$/shitake/src/config.coffee" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378797092233" ignored="false" />
-    <file path="$USER_HOME$/shitake/dev/app.css" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378729386328" ignored="false" />
+    <file path="$USER_HOME$/shitake/src/package.json" changelist="523eab0b-1554-4f49-9319-89b7c83602a2" time="1378714895525" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,19 +97,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="28" selection-start="757" selection-end="757" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="newrelic.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/newrelic.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="176" column="29" selection-start="7644" selection-end="7644" vertical-scroll-proportion="0.0">
+            <state line="36" column="28" selection-start="757" selection-end="757" vertical-scroll-proportion="0.45783132">
               <folding />
             </state>
           </provider>
@@ -124,11 +110,7 @@
         <entry file="file://$PROJECT_DIR$/lib/mail_snapper.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="4" column="41" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1378221067964" expanded="true" signature="106:162" placeholder=" ... end" />
-                <marker date="1378221067964" expanded="true" signature="306:570" placeholder=" ... end" />
-                <marker date="1378221067964" expanded="true" signature="323:564" placeholder="begin ... end" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -160,10 +142,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="154" selection-start="267" selection-end="267" vertical-scroll-proportion="0.034802783">
+            <state line="4" column="98" selection-start="423" selection-end="423" vertical-scroll-proportion="-2.5">
               <folding />
             </state>
           </provider>
@@ -173,6 +155,15 @@
         <entry file="file://$PROJECT_DIR$/app/controllers/tracker_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="10" column="5" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="track.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/tracker/track.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="13" selection-start="448" selection-end="448" vertical-scroll-proportion="-7.5">
               <folding />
             </state>
           </provider>
@@ -216,9 +207,8 @@
         <option value="$PROJECT_DIR$/lib/mail.rb" />
         <option value="$PROJECT_DIR$/lib/mail_snapper.rb" />
         <option value="$PROJECT_DIR$/app/controllers/tracker_controller.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/config/newrelic.yml" />
         <option value="$PROJECT_DIR$/app/views/tracker/index.html.erb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -230,7 +220,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
+    <option name="x" value="1919" />
     <option name="y" value="-4" />
     <option name="width" value="1922" />
     <option name="height" value="1085" />
@@ -261,8 +251,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -427,13 +415,15 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="dynamic.classpath" value="false" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -715,15 +705,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-4" width="1922" height="1085" extended-state="6" />
+    <frame x="1919" y="-4" width="1922" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914045" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26256683" sideWeight="0.49266246" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5066394" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2593583" sideWeight="0.49266246" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5073375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914045" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -731,7 +722,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914045" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -800,9 +790,23 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/views/tracker/track.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="30" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html.bu">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="5" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
@@ -852,17 +856,15 @@
     </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p195/gems/mail-2.5.4/lib/mail/mail.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="1634" selection-end="1634" vertical-scroll-proportion="0.3325301" />
+        <state line="49" column="0" selection-start="1634" selection-end="1634" vertical-scroll-proportion="0.3325301">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/mail_snapper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="41" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1378221067964" expanded="true" signature="106:162" placeholder=" ... end" />
-            <marker date="1378221067964" expanded="true" signature="306:570" placeholder=" ... end" />
-            <marker date="1378221067964" expanded="true" signature="323:564" placeholder="begin ... end" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -875,33 +877,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/tracker/track.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="448" selection-end="448" vertical-scroll-proportion="-7.5" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="28" selection-start="757" selection-end="757" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/newrelic.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="176" column="29" selection-start="7644" selection-end="7644" vertical-scroll-proportion="0.0">
+        <state line="12" column="13" selection-start="448" selection-end="448" vertical-scroll-proportion="-7.5">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/tracker/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="154" selection-start="267" selection-end="267" vertical-scroll-proportion="0.034802783">
+        <state line="4" column="98" selection-start="423" selection-end="423" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="28" selection-start="757" selection-end="757" vertical-scroll-proportion="0.45783132">
           <folding />
         </state>
       </provider>
